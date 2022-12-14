@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=hello%&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=hello%&fontAlign=70&stroke=000000&strokeWidth=3)
 
 
 - 🔭 I’m currently working on 
