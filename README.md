@@ -10,6 +10,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![html](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Dae12Geon GitHub stats](https://github-readme-stats.vercel.app/api?username=Dae12Geon&theme=dark&show_icons=true)
 
